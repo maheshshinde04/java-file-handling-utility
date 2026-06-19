@@ -1,6 +1,7 @@
 java-file-handling-utility
 
 A Java application that demonstrates file handling operations-
+
 Write data to a file
 Read data from a file
 Modify existing file content
