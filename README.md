@@ -1,6 +1,6 @@
 java-file-handling-utility
 
-A Java application that demonstrates file handling operations-
+#A Java application that demonstrates file handling operations-
 
 Write data to a file
 
@@ -11,7 +11,7 @@ Modify existing file content
 Handle file-related exceptions
 
 
-Technologies Used-
+#Technologies Used-
 
 Java
 
@@ -24,7 +24,7 @@ BufferedReader
 BufferedWriter
 
 
-Features-
+#Features-
 
 Create text files
 
